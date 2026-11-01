@@ -1,0 +1,16 @@
+schema_version = "1.0.0"
+id = "perceptual_grade"
+version = "1.23.2"
+name = "Perceptual Grade"
+tagline = "Perceptual color grading in modCAM16-UCS"
+maintainer = "Rei277Hz <361081089@qq.com>"
+type = "add-on"
+website = "https://github.com/rei277hz/perceptual-grade"
+support = "https://github.com/rei277hz/perceptual-grade/issues"
+tags = ["Node", "Compositing"]
+blender_version_min = "5.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
+copyright = ["2026 Rei277Hz"]
+
+[permissions]
+files = "Cache scope samples, immutable helper payloads, and execution recovery journals"
